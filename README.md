@@ -212,4 +212,4 @@ FurMark is available as a complete free version, providing all features and upda
 Start benchmarking your graphics card today with FurMark! Download now for a complete testing experience.
 
 ---
-**Last updated:** 2026-10-13 10:15:33 UTC
+**Last updated:** 2026-10-13 18:01:24 UTC
